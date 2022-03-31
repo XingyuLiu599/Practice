@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thursday
+
+@author: Xingyu Liu
+"""
+
+print("Hello Xingyu!")
+
+x = 10
+
+print(x*2)
